@@ -6,7 +6,8 @@ public class Principal {
 		// TODO Auto-generated method stub
 
 		System.out.println("buenos dias soy sergio 2");
-		
+	
+		System.out.println("SOy javi");
 	}
 
 }
